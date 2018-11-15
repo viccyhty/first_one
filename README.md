@@ -1,3 +1,3 @@
 # first_one
-just a repository
+just a repository  
 *KDJ is a horse.*
